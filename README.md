@@ -1,6 +1,12 @@
-👋 Hey there, I'm Aisha Shaikh!
+<h1 align="center">
+  Hey there, I'm Aisha Shaikh
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+       width="35" alt="Waving hand" />
+</h1>
 
-💻 Full-Stack Developer | Building Web Applications
+<h3 align="center">
+  Full-Stack Developer | Building Web Applications
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Modern+Web+Applications;JavaScript+%7C+TypeScript+%7C+Next.js;Turning+Ideas+Into+Useful+Products" alt="Typing introduction" />
@@ -14,7 +20,7 @@
   <a href="https://github.com/Aisha-shaikh578">
     <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>---
+</p>
 
 🧑‍💻 About Me
 
@@ -35,8 +41,7 @@ My goal is to keep learning, strengthen my engineering skills, and build applica
 - 🛠️ Exploring backend development, databases and cloud-based tools.
 - 🌱 Continuously improving my development and problem-solving skills.
 - 🎯 Focused on writing clean, maintainable code.
-
----
+- 
 
 🛠️ Tech Stack
 
@@ -56,7 +61,7 @@ Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code and Vercel" />
-</p>---
+</p>
 
 📊 GitHub Analytics
 
@@ -69,7 +74,7 @@ Languages
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aisha-shaikh578&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</p>---
+</p>
 
 🚀 Featured Projects
 
