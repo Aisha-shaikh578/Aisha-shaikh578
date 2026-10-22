@@ -1,6 +1,6 @@
 👋 Hey there, I'm Aisha Shaikh!
 
-💻 Full-Stack Developer | Web Application Builder
+💻 Full-Stack Developer | Building Web Applications
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Modern+Web+Applications;JavaScript+%7C+TypeScript+%7C+Next.js;Turning+Ideas+Into+Useful+Products" alt="Typing introduction" />
@@ -18,8 +18,6 @@
 
 🧑‍💻 About Me
 
-name: Aisha Shaikh
-role: Full-Stack Developer
 focus:
   - Modern Web Applications
   - Frontend Development
@@ -28,7 +26,7 @@ focus:
   - Responsive User Interfaces
 mindset: Learn continuously, build thoughtfully, improve constantly
 
-I enjoy building web applications that combine thoughtful user interfaces with reliable backend functionality. I work with modern JavaScript technologies and explore ways to turn ideas into practical, maintainable products.
+I enjoy building web applications that combine thoughtful user interfaces with reliable backend functionality. I work with modern technologies and explore ways to turn ideas into practical, maintainable products.
 
 My goal is to keep learning, strengthen my engineering skills, and build applications that solve real problems.
 
@@ -113,6 +111,4 @@ I'm always happy to connect with fellow developers, exchange ideas, and learn ab
   </a>
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aisha-shaikh578&style=flat-square&color=2DD4BF&label=PROFILE+VIEWS" alt="Profile views" />
-</p><p align="center">
-  <i>Building, learning, and getting better one commit at a time. 💚</i>
 </p>
